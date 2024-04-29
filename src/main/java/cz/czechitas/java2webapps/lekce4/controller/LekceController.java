@@ -8,9 +8,9 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller()
 @RequestMapping("/lekce")
 public class LekceController {
-  @GetMapping("/")
-  public ModelAndView seznam() {
-    ModelAndView modelAndView = new ModelAndView("/lekce/index");
-    return modelAndView;
-  }
+    @GetMapping("/")
+    public ModelAndView seznam() {
+        ModelAndView modelAndView = new ModelAndView("/lekce/index");
+        return modelAndView;
+    }
 }
