@@ -1,4 +1,5 @@
 [#ftl]
+[#-- @ftlroot ".." --]
 <!DOCTYPE html>
 <html lang="cs">
 <head>

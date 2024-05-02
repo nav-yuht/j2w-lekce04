@@ -6,6 +6,9 @@
 </head>
 <body>
 
+
+
+
 <div class="container">
     [#include '/_common/header.ftlh']
 
@@ -20,3 +23,6 @@
 </div>
 </body>
 </html>
+[#--Pro zobrazení ikon stačí změnit <link> v head.ftlh na
+
+<link rel= "stylesheet" href= "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css" >--]
